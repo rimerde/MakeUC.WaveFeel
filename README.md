@@ -1,2 +1,2 @@
 # MakeUC.WaveFeel
-a new haptic tool used to navigate the web!
+An innovative haptic tool meant to elevate the web surfing experience using touch sensors and gyro controls.
